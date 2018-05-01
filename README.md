@@ -1,7 +1,7 @@
 # RoboFriends
 First React Application 'RoboFriends'
 
-Link for [Live Preview](https://janbegjan.github.io/robofriends/)
+Link: [Live Preview](https://janbegjan.github.io/robofriends/)
 
 ![RoboFriends](robofriends.png)
 
