@@ -1,6 +1,8 @@
 # RoboFriends
 First React Application 'RoboFriends'
 
+Link for [Live Preview](https://janbegjan.github.io/robofriends/)
+
 ![RoboFriends](robofriends.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
